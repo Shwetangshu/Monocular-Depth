@@ -21,20 +21,18 @@ To run the code in this repository, you'll need to install the required dependen
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/yourusername/Monocular-Depth.git
+   `git clone https://github.com/yourusername/Monocular-Depth.git`
 
 2. Navigate to the cloned repository:
 
-   cd Monocular-Depth
+   `cd Monocular-Depth`
    
 4. Run the Python script:
 
-   python depth_estimation.py
+   `python depth_estimation.py`
 
 
 This will launch a window displaying the webcam feed along with the corresponding depth map.
-
-Press 'q' to exit the application.
 
 ## Credits
 
