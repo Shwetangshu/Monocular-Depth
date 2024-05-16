@@ -21,7 +21,7 @@ To run the code in this repository, you'll need to install the required dependen
 
 1. Clone this repository to your local machine:
 
-   `git clone https://github.com/yourusername/Monocular-Depth.git`
+   `git clone https://github.com/Shwetangshu/Monocular-Depth.git`
 
 2. Navigate to the cloned repository:
 
