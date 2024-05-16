@@ -29,7 +29,7 @@ To run the code in this repository, you'll need to install the required dependen
    
 4. Run the Python script:
 
-   `python depth_estimation.py`
+   `python midascv.py`
 
 
 This will launch a window displaying the webcam feed along with the corresponding depth map.
